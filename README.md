@@ -1,26 +1,109 @@
-# React + Vite
+# 🎯 Quiz Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive Quiz Application built using **React + Vite**.
+Users can answer multiple-choice questions and instantly see their results.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 Coming Soon (Deploy using Vercel / Netlify)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🏠 Home Page
 
 <p align="center">
-  <h1>Quiz Home Page</h1>
-  <img src="public/screenshots/start.png" width="400"/>
-  <br>
-  <h1>Result Page</h1>
-  <img src="public/screenshots/end.png" width="400"/>
+  <img src="./public/screenshots/start.png" alt="Home Page" width="500"/>
 </p>
 
+### 📊 Result Page
 
+<p align="center">
+  <img src="./public/screenshots/end.png" alt="Result Page" width="500"/>
+</p>
+
+---
+
+## ✨ Features
+
+* 🧠 Multiple-choice quiz questions
+* ⚡ Fast performance using Vite
+* 📊 Instant result calculation
+* 🎨 Clean and responsive UI
+* 🔁 Restart quiz option
+
+---
+
+## 🛠️ Tech Stack
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 CSS / Bootstrap
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+Quiz-web-App/
+│── public/
+│   └── screenshots/
+│       ├── start.png
+│       └── end.png
+│── src/
+│   ├── assets/
+│   │   └── components/
+│   │       ├── Quiz.jsx
+│   │       └── Result.jsx
+│   ├── App.jsx
+│   └── main.jsx
+│── package.json
+│── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/kanakaraju1a/Quiz-web-App.git
+```
+
+2. Navigate to project folder:
+
+```bash
+cd Quiz-web-App
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run the app:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🙋‍♂️ Author
+
+**Kanakaraju**
+
+* GitHub: https://github.com/kanakaraju1a
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
