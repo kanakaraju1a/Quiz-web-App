@@ -20,7 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ![end](screenshots/end.png)
 
 <p align="center">
-  <img src="screenshots/start.png" width="400"/>
+  <img src="public/screenshots/start.png" width="400"/>
   <img src="screenshots/quiz.png" width="400"/>
 </p>
 
